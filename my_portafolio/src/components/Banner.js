@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Container from "react-bootstrap/esm/Container";
 import { Row, Col } from 'react-bootstrap';
-import headerImage from '../assets/images/header-img.svg'
+import headerImage from '../assets/images/header-img.png'
 import { BsFillArrowRightCircleFill } from 'react-icons/bs';
 
 export const Banner = () => {

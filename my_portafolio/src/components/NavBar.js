@@ -6,6 +6,7 @@ import logo from '../assets/images/logo.svg'
 import navIcon1 from '../assets/images/nav-icon1.svg'
 import navIcon2 from '../assets/images/nav-icon2.svg'
 import navIcon3 from '../assets/images/nav-icon3.svg'
+import navIcon4 from '../assets/images/nav-icon4.png'
 
 
 export const NavBar = () => {
@@ -50,6 +51,7 @@ export const NavBar = () => {
                             <a href='#'><img src={navIcon1} alt=''/></a>
                             <a href='#'><img src={navIcon2} alt=''/></a>
                             <a href='#'><img src={navIcon3} alt=''/></a>
+                            <a href='#'><img src={navIcon4} alt=''/></a>
                         </div>
                         <button className='vvd'><span>Lets' Connect</span></button>
                     </span>
